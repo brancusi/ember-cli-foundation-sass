@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-foundation-sass",
   "dependencies": {
-    "foundation": "zurb/bower-foundation#5.4.2"
+    "foundation": "zurb/bower-foundation#5.4.6"
   }
 }
